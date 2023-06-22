@@ -1,2 +1,2 @@
 # Data_visualisation_tasks
-Projects performed using python visualisation libraries
+Projects performed using Python visualisation libraries
